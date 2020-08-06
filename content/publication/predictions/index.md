@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "The Power of Predictions in Online Control"
-authors: ["Chenkai Yu\*", "test*"]
+authors: ["Chenkai Yu\*", "test\*"]
 date: 2020-08-06T04:28:58-07:00
 doi: ""
 
