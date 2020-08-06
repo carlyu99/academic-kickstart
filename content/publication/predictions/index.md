@@ -3,7 +3,7 @@
 
 title: "The Power of Predictions in Online Control"
 authors: [Chenkai Yu, Guanya Shi, Soon-Jo Chung, Yisong Yue, Adam Wierman]
-date: 2020-08-06T04:28:58-07:00
+date: 2020-06-13T04:28:58-07:00
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
