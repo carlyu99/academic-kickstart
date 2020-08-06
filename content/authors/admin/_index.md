@@ -10,11 +10,11 @@ authors:
 superuser: true
 
 # Role/position
-role: Class of 2021 Undergraduate Student
+role: Undergraduate Student
 
 # Organizations/Affiliations
 organizations:
-- name: Tsinghua University
+- name: Institute for Interdisciplinary Information Sciences, Tsinghua University
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -38,12 +38,12 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=WLixsssAAAAJ
+# - icon: twitter
+#  icon_pack: fab
+#  link: https://twitter.com/GeorgeCushen
 # - icon: github
 #  icon_pack: fab
 #  link: https://github.com/gcushen
@@ -63,6 +63,4 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I am junior student at Institute for Interdisciplinary Information Sciences, Tsinghua University. My research interests include algorithmic game theory and online algorithms. Currently, I am a visiting student at California Institute of Technology, where I am fortunate to work with Prof. Adam Wierman on both online algorithms and algorithmic economics. I was also a visiting student at University of Michigan, where I worked with Prof. Grant Schoenebeck on mechanism design.
