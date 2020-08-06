@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Combine"
+title: "Combining Model-Based and Model-Free Methods for Nonlinear Control: A Provably Convergent Policy Gradient Approach"
 authors: ["Guannan Qu", "Chenkai Yu", "Steven Low", "Adam Wierman"]
 date: 2020-06-12T15:03:01-07:00
 doi: ""
@@ -36,7 +36,7 @@ featured: true
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf:
+url_pdf: https://arxiv.org/abs/2006.07476
 url_code:
 url_dataset:
 url_poster:
