@@ -1,6 +1,11 @@
+---
+
 title: the title of your publication
+
 date: the date that your publication was first published (must be in a valid TOML date format)
+
 publication_types: 3
+
 # use the following legend to specify the type of your publication, e.g. "1" for conference proceedings:
 # 0 = Uncategorized
 # 1 = Conference paper
@@ -11,5 +16,9 @@ publication_types: 3
 # 6 = Book section
 # 7 = Thesis (v4.2+ required)
 # 8 = Patent (v4.2+ required)
+
 publication: where your title was published - Markdown formatting is enabled here for italic etc.
+
 abstract: the summary of your publication
+
+---
