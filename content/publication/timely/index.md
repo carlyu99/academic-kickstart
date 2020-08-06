@@ -19,13 +19,13 @@ publication_types: ["3"]
 publication: ""
 publication_short: ""
 
-abstract: "Prediction markets are powerful tools to elicit and aggregate beliefs from strategic agents. However, a limitation of current prediction markets is that agents may exhaust the social welfare by competing to be the first to update the market. We initiate the study of the trade-off between how quickly information is aggregated by the market, and how much this information costs.
+abstract: "Prediction markets are powerful tools to elicit and aggregate beliefs from strategic agents. However, in current prediction markets, agents may exhaust the social welfare by competing to be the first to update the market. We initiate the study of the trade-off between how quickly information is aggregated by the market, and how much this information costs.
 
 We design markets to aggregate timely information from strategic agents to maximize the social welfare: the value of information minus the costs incurred. To this end, the market must incentivize agents to invest the correct amount of effort to acquire information: quickly enough to be useful, but not faster (and more expensively) than necessary. The market also must ensure that agents report their information truthfully and on time.
 
 We consider two settings: in the first, information is only valuable before a particular deadline; in the second, the value of information decreases as time passes.
 
-We use both formal theorems and simulations to demonstrate the differences between the mechanisms."
+We use both theorems and simulations to demonstrate the differences between the mechanisms."
 
 # Summary. An optional shortened abstract.
 summary: ""
