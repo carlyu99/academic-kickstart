@@ -30,13 +30,13 @@ featured: false
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
-# links:
+links:
 # - name: Follow
-#   url: https://twitter.com
+  url: https://arxiv.org/abs/2006.07569  # https://twitter.com
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf:https://arxiv.org/abs/2006.07569
+url_pdf:
 url_code:
 url_dataset:
 url_poster:
