@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Timely Information from Prediction Markets"
-authors: ['Grant Schoenebeck', 'Chenkai Yu', 'Fang-Yi Yu', 'in alphabetical order']
+authors: ['Grant Schoenebeck*', 'Chenkai Yu*', 'Fang-Yi Yu*', 'alphabetically ordered']
 date: 2020-08-06T15:07:03-07:00
 doi: ""
 
