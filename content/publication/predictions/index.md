@@ -2,7 +2,8 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "The Power of Predictions in Online Control"
-authors: ['Chenkai Yu', 'Guanya Shi', 'Soon-Jo Chung', 'Yisong Yue', 'Adam Wierman']
+authors:
+  ["Chenkai Yu", "Guanya Shi", "Soon-Jo Chung", "Yisong Yue", "Adam Wierman"]
 date: 2020-06-13T00:00:00-07:00
 doi: ""
 
@@ -26,7 +27,7 @@ summary: ""
 
 tags: []
 categories: []
-featured: false
+featured: true
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
@@ -46,7 +47,7 @@ url_source:
 url_video:
 
 # Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
+# To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
   caption: ""
