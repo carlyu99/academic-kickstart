@@ -63,4 +63,6 @@ user_groups:
   - Visitors
 ---
 
-I am a junior student majoring in computer science at [Institute for Interdisciplinary Information Sciences](https://iiis.tsinghua.edu.cn/en/), Tsinghua University. My research interests include algorithmic game theory and online algorithms. Currently, I am a visiting student at California Institute of Technology, where I am fortunate to work with [Prof. Adam Wierman](http://users.cms.caltech.edu/~adamw/index.html) on both online algorithms and algorithmic economics. I was also a visiting student at University of Michigan, where I worked with [Prof. Grant Schoenebeck](http://schoeneb.people.si.umich.edu/) on mechanism design.
+I am a junior student majoring in computer science at [Institute for Interdisciplinary Information Sciences](https://iiis.tsinghua.edu.cn/en/), Tsinghua University. Currently, I am a visiting student at California Institute of Technology, where I am fortunate to work with [Prof. Adam Wierman](http://users.cms.caltech.edu/~adamw/index.html) on both online algorithms and algorithmic economics. I was also a visiting student at University of Michigan, where I worked with [Prof. Grant Schoenebeck](http://schoeneb.people.si.umich.edu/) on mechanism design.
+
+I am generally interested in the intersection between economics and computer science.
