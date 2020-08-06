@@ -30,7 +30,7 @@ featured: false
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
-links:
+# links:
 # - name: Follow
 #   https://twitter.com
 #   icon_pack: fab
@@ -42,7 +42,7 @@ url_dataset:
 url_poster:
 url_project:
 url_slides:
-url_source:
+url_source: https://arxiv.org/abs/2006.07569
 url_video:
 
 # Featured image
