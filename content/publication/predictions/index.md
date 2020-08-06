@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "The Power of Predictions in Online Control"
-authors: ['Joe Smith*', 'Bob Smith*', 'Someone else']
+authors: ['Joe Smith*', 'Bob Smith*', "Someone else"]
 date: 2020-08-06T04:28:58-07:00
 doi: ""
 
