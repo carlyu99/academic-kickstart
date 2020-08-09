@@ -49,9 +49,9 @@ social:
   #   link: https://github.com/carlyu99
   # Link to a PDF of your resume/CV from the About widget.
   # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-  - icon: cv
-    icon_pack: ai
-    link: files/cv.pdf
+  # - icon: cv
+  #   icon_pack: ai
+  #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -61,8 +61,9 @@ email: ""
 user_groups:
   - Researchers
   - Visitors
+# before that, I worked with [Hang Su](http://www.suhangss.me/) on visual reasoning
 ---
 
-I am a junior student majoring in computer science at [Institute for Interdisciplinary Information Sciences](https://iiis.tsinghua.edu.cn/en/), Tsinghua University, where I worked with [Prof. Pingzhong Tang](http://people.iiis.tsinghua.edu.cn/~kenshin/) on computational game theory and auction design; before that, I worked with [Prof. Hang Su](http://www.suhangss.me/) on visual reasoning. Currently, I am a visiting student at California Institute of Technology, where I am fortunate to work with [Prof. Adam Wierman](http://users.cms.caltech.edu/~adamw/index.html) on both online algorithms and algorithmic economics. I was also a visiting student at University of Michigan, where I worked with [Prof. Grant Schoenebeck](http://schoeneb.people.si.umich.edu/) on information elicitation mechanisms.
+I am a junior student majoring in computer science at [Institute for Interdisciplinary Information Sciences](https://iiis.tsinghua.edu.cn/en/), Tsinghua University, where I worked with [Pingzhong Tang](http://people.iiis.tsinghua.edu.cn/~kenshin/) on computational game theory and auction design. Currently, I am a visiting student at California Institute of Technology, where I am fortunate to work with [Adam Wierman](http://users.cms.caltech.edu/~adamw/index.html) and [Hongyao Ma](https://www.hongyaoma.com/) on online algorithms and algorithmic economics. I was also a visiting student at University of Michigan, where I worked with [Grant Schoenebeck](http://schoeneb.people.si.umich.edu/) on information elicitation mechanisms.
 
 I am generally interested in the intersection between economics and computer science.
