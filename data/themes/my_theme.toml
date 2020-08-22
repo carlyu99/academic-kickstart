@@ -5,7 +5,7 @@ name = "my_theme"
 light = false
 
 # Primary
-primary = "hsl(240, 80%, 60%)"
+primary = "hsl(0, 80%, 60%)"
 
 # Menu
 menu_primary = "hsl(216, 67%, 50%)"
@@ -14,5 +14,5 @@ menu_text_active = "hsl(0, 50%, 80%)"
 menu_title = "hsl(0, 0%, 80%)"
 
 # Home sections
-home_section_odd = "hsl(216, 15%, 23%)"
-home_section_even = "hsl(216, 15%, 20%)"
+home_section_odd = "hsl(216, 20%, 23%)"
+home_section_even = "hsl(216, 20%, 20%)"
