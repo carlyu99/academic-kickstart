@@ -5,12 +5,12 @@ name = "my_theme"
 light = false
 
 # Primary
-primary = "hsl(250, 100%, 50%)"
+primary = "hsl(240, 80%, 60%)"
 
 # Menu
 menu_primary = "hsl(216, 67%, 50%)"
-menu_text = "hsl(216, 40%, 80%)"
-menu_text_active = "hsl(356, 40%, 80%)"
+menu_text = "hsl(216, 50%, 80%)"
+menu_text_active = "hsl(0, 50%, 80%)"
 menu_title = "hsl(0, 0%, 80%)"
 
 # Home sections
