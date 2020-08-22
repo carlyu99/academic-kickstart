@@ -2,7 +2,7 @@
 # Experience widget.
 widget = "experience"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
+active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
 title = "Experience"
@@ -18,27 +18,38 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
+  title = "Visiting Student"
+  company = "California Institute of Technology"
   company_url = ""
   location = "California"
-  date_start = "2017-01-01"
-  date_end = ""
-  description = """
-  Responsibilities include:
+  date_start = "2020-01-30"
+  date_end = "2020-08-14"
+  description = """Researched on online algorithms and mechanism design."""
+
+  # description = """
+  # Responsibilities include:
   
-  * Analysing
-  * Modelling
-  * Deploying
-  """
+  # * Analysing
+  # * Modelling
+  # * Deploying
+  # """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "Visiting Student"
+  company = "University of Michigan"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  location = "Michigan"
+  date_start = "2019-06-27"
+  date_end = "2019-08-17"
+  description = """Researched on mechanism design."""
+
+[[experience]]
+  title = "Research Intern"
+  company = "Tencent"
+  company_url = ""
+  location = "Shenzhen, China"
+  date_start = "2019-01-22"
+  date_end = "2019-03-12"
+  description = """Researched on machine learning."""
 
 +++

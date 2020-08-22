@@ -23,6 +23,7 @@ bio: My research interests include game theory and online algorithms.
 interests:
   - Game Theory
   - Online Algorithms
+  - Theoretical Machine Learning
 
 education:
   courses:
