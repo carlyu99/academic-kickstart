@@ -9,9 +9,9 @@ primary = "hsl(0, 80%, 60%)"
 
 # Menu
 menu_primary = "hsl(216, 67%, 50%)"
-menu_text = "hsl(216, 50%, 80%)"
-menu_text_active = "hsl(0, 50%, 80%)"
-menu_title = "hsl(0, 0%, 80%)"
+menu_text = "hsl(216, 60%, 70%)"
+menu_text_active = "hsl(0, 40%, 70%)"
+menu_title = "hsl(0, 0%, 70%)"
 
 # Home sections
 home_section_odd = "hsl(216, 20%, 23%)"
