@@ -8,9 +8,9 @@ light = false
 primary = "hsl(216, 100%, 50%)"
 
 # Menu
-menu_primary = "hsl(216, 75%, 50%)"
-menu_text = "hsl(216, 27%, 87%)"
-menu_text_active = "hsl(356, 27%, 87%)"
+menu_primary = "hsl(216, 67%, 50%)"
+menu_text = "hsl(216, 27%, 80%)"
+menu_text_active = "hsl(356, 27%, 80%)"
 menu_title = "hsl(0, 0%, 87%)"
 
 # Home sections
