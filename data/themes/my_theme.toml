@@ -5,14 +5,14 @@ name = "my_theme"
 light = false
 
 # Primary
-primary = "#007FFF"
+primary = "hsl(216, 100%, 50%)"
 
 # Menu
-menu_primary = "#2E66B6"
-menu_text = "#BBD6FF"
-menu_text_active = "#FFBBBF"
-menu_title = "#DDDDDD"
+menu_primary = "hsl(216, 75%, 50%)"
+menu_text = "hsl(216, 27%, 87%)"
+menu_text_active = "hsl(356, 27%, 87%)"
+menu_title = "hsl(0, 0%, 87%)"
 
 # Home sections
-home_section_odd = "hsl(260, 15%, 25%)"
-home_section_even = "hsl(260, 15%, 20%)"
+home_section_odd = "hsl(250, 15%, 23%)"
+home_section_even = "hsl(250, 15%, 20%)"
