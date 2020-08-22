@@ -5,13 +5,13 @@ name = "my_theme"
 light = false
 
 # Primary
-primary = "#3D72BD"
+primary = "#006AFF"
 
 # Menu
 menu_primary = "#2E66B6"
 menu_text = "#BBD6FF"
 menu_text_active = "#FFBBBF"
-menu_title = "#CDD4E4"
+menu_title = "#DDDDDD"
 
 # Home sections
 home_section_odd = "hsla(231, 15%, 18%, 1)"
