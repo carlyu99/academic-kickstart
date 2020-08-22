@@ -8,10 +8,11 @@ light = false
 primary = "hsl(0, 80%, 60%)"
 
 # Menu
-menu_primary = "hsl(0, 50%, 50%)"
-menu_text = "hsl(0, 60%, 70%)"
-menu_text_active = "hsl(0, 0%, 80%)"
-menu_title = "hsl(216, 67%, 50%)"
+# sky color is hsl(216, 67%, 50%)
+menu_primary = "hsl(0, 45%, 50%)"
+menu_text = "hsl(0, 50%, 75%)"
+menu_text_active = "hsl(216, 50%, 75%)"
+menu_title = "hsl(0, 0%, 75%)"
 
 # Home sections
 home_section_odd = "hsl(216, 20%, 23%)"
