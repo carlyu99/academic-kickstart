@@ -8,10 +8,10 @@ light = false
 primary = "#2E66B6"
 
 # Menu
-menu_primary = "#2E66B6"
+menu_primary = "#3D72BD"
 menu_text = "#BBD6FF"
 menu_text_active = "#FFBBBF"
-menu_title = "#DDDDDD"
+menu_title = "#CDD4E4"
 
 # Home sections
 home_section_odd = "hsla(231, 15%, 18%, 1)"
