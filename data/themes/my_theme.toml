@@ -15,5 +15,5 @@ menu_text_active = "hsl(300, 60%, 70%)"
 menu_title = "hsl(215, 40%, 80%)"
 
 # Home sections
-home_section_odd = "hsl(215, 20%, 23%)"
-home_section_even = "hsl(215, 20%, 20%)"
+home_section_odd = "hsl(240, 20%, 20%)"
+home_section_even = "hsl(240, 20%, 18%)"
