@@ -25,7 +25,7 @@ abstract: "We study the impact of predictions in online Linear Quadratic Regulat
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: []
+tags: [Control Theory, Online Algorithm]
 categories: []
 featured: true
 

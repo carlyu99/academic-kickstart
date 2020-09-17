@@ -25,7 +25,7 @@ abstract: "Model-free learning-based control methods have seen great success rec
 summary: ""
 
 tags: []
-categories: []
+categories: [RL, Control Theory]
 featured: true
 
 # Custom links (optional).
