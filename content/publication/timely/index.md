@@ -4,7 +4,7 @@
 title: "Timely Information from Prediction Markets"
 authors: ['Grant Schoenebeck*', 'Chenkai Yu*', 'Fang-Yi Yu*', 'alphabetically ordered']
 date: 2020-08-06T15:07:03-07:00
-doi: ""
+doi: "t"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2020-08-06T15:07:03-07:00
