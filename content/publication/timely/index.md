@@ -31,7 +31,7 @@ We use both theorems and simulations to demonstrate the mechanisms."
 summary: ""
 
 tags: [Game Theory]
-categories: [Game Theory]
+categories: []
 featured: true
 
 # Custom links (optional).
