@@ -13,11 +13,11 @@ publishDate: 2020-08-06T15:07:03-07:00
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["1"]
+publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: "11"
-publication_short: "22"
+publication: "Mechanism Design for Social Good"
+publication_short: "MD4SG '20"
 
 abstract: "Prediction markets are powerful tools to elicit and aggregate beliefs from strategic agents. However, in current prediction markets, agents may exhaust the social welfare by competing to be the first to update the market. We initiate the study of the trade-off between how quickly information is aggregated by the market, and how much this information costs.
 
@@ -28,10 +28,10 @@ We consider two settings: in the first, information is only valuable before a de
 We use both theorems and simulations to demonstrate the mechanisms."
 
 # Summary. An optional shortened abstract.
-summary: "333"
+summary: ""
 
-tags: [444]
-categories: [555]
+tags: []
+categories: []
 featured: true
 
 # Custom links (optional).
