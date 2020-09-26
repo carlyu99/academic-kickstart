@@ -42,9 +42,9 @@ social:
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=WLixsssAAAAJ
-  # - icon: twitter
-  #   icon_pack: fab
-  #   link: https://twitter.com/GeorgeCushen
+   - icon: twitter
+     icon_pack: fab
+     link: https://twitter.com/Yu_Chenkai
   # - icon: github
   #   icon_pack: fab
   #   link: https://github.com/carlyu99
