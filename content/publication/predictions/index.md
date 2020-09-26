@@ -14,11 +14,11 @@ publishDate: 2020-08-06T04:28:58-07:00
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
-publication_short: ""
+publication: "Thirty-fourth Conference on Neural Information Processing Systems"
+publication_short: "NeurIPS 2020"
 
 abstract: "We study the impact of predictions in online Linear Quadratic Regulator control with both stochastic and adversarial disturbances in the dynamics. In both settings, we characterize the optimal policy and derive tight bounds on the minimum cost and dynamic regret. Perhaps surprisingly, our analysis shows that the conventional greedy MPC approach is a near-optimal policy in both stochastic and adversarial settings. Specifically, for length-$T$ problems, MPC requires only $O(\\log T)$ predictions to reach $O(1)$ dynamic regret, which matches (up to lower-order terms) our lower bound on the required prediction horizon for constant regret."
 
