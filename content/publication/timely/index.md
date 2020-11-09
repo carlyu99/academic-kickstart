@@ -30,7 +30,7 @@ We use both theorems and simulations to demonstrate the mechanisms."
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: [Game Theory]
+tags: [Game Theory, Market Design]
 categories: []
 featured: true
 
