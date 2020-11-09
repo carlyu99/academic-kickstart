@@ -35,8 +35,11 @@ featured: true
 #   url: https://twitter.com
 #   icon_pack: fab
 #   icon: twitter
+links:
+  - name: arXiv
+    url: https://arxiv.org/abs/2006.07476
 
-url_pdf: https://arxiv.org/abs/2006.07476
+url_pdf:
 url_code:
 url_dataset:
 url_poster:
