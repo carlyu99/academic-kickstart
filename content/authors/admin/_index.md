@@ -18,7 +18,7 @@ organizations:
     url: "https://iiis.tsinghua.edu.cn/en/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include game theory and online algorithms.
+bio: I am interested in the intersection of computer science and economics.
 
 interests:
   - Game Theory
@@ -27,7 +27,7 @@ interests:
 
 education:
   courses:
-    - course: BEng in Computer Science
+    - course: BE in Computer Science
       institution: Tsinghua University
       year: 2021
 
@@ -63,8 +63,9 @@ user_groups:
   - Researchers
   - Visitors
 # before that, I worked with [Hang Su](http://www.suhangss.me/) on visual reasoning
+# where I worked with [Pingzhong Tang](http://people.iiis.tsinghua.edu.cn/~kenshin/) on computational game theory and auction design
 ---
 
-I am a 4th year student majoring in computer science at [Institute for Interdisciplinary Information Sciences](https://iiis.tsinghua.edu.cn/en/), Tsinghua University, where I worked with [Pingzhong Tang](http://people.iiis.tsinghua.edu.cn/~kenshin/) on computational game theory and auction design. During winter to summer 2020, I was a visiting student at California Institute of Technology, where I worked with [Adam Wierman](http://users.cms.caltech.edu/~adamw/index.html) and [Hongyao Ma](https://www.hongyaoma.com/) on online algorithms and ride-sharing markets. During summer 2019, I was a visiting student at University of Michigan, where I worked with [Grant Schoenebeck](http://schoeneb.people.si.umich.edu/) on information elicitation mechanisms.
+I am a 4th year student majoring in computer science at [Institute for Interdisciplinary Information Sciences (Yao Class)](https://iiis.tsinghua.edu.cn/en/), Tsinghua University. During winter to summer 2020, I was a visiting student at California Institute of Technology, where I worked with [Adam Wierman](https://adamwierman.com/) and [Hongyao Ma](https://www.hongyaoma.com/) on online algorithms and ride-sharing markets. During summer 2019, I was a visiting student at University of Michigan, where I worked with [Grant Schoenebeck](http://schoeneb.people.si.umich.edu/) on information elicitation mechanisms.
 
-I am generally interested in the intersection between economics and computer science.
+I am generally interested in the intersection between computer science and economics. I hope to utilize mathematics tools to solve new problems in emerging interdisciplinary research areas.
