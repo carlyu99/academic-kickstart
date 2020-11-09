@@ -33,12 +33,12 @@ featured: true
 #   Uncomment and edit lines below to show custom links.
 # links:
 # - name: Follow
-#   https://twitter.com
+#   url: https://twitter.com
 #   icon_pack: fab
 #   icon: twitter
 links:
-- name: arXiv
-  https://arxiv.org/abs/2010.11637
+  - name: arXiv
+    url: https://arxiv.org/abs/2010.11637
 
 url_pdf:
 url_code:
