@@ -39,8 +39,10 @@ featured: true
 links:
   - name: arXiv
     url: https://arxiv.org/abs/2006.07569
-  - name: Zhihu
+  - name: ZhiHu
     url: https://zhuanlan.zhihu.com/p/277415608
+    icon_pack: fab
+    icon: zhihu
 
 url_pdf:
 url_code:
