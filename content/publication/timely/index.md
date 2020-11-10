@@ -41,6 +41,9 @@ featured: true
 #   url: https://twitter.com
 #   icon_pack: fab
 #   icon: twitter
+links:
+- name: arXiv
+  url: http://arxiv.org/abs/2011.03645
 
 url_pdf:
 url_code:
