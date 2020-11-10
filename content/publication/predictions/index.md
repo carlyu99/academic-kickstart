@@ -39,6 +39,8 @@ featured: true
 links:
   - name: arXiv
     url: https://arxiv.org/abs/2006.07569
+  - name: Zhihu
+    url: https://zhuanlan.zhihu.com/p/277415608
 
 url_pdf:
 url_code:
@@ -54,7 +56,7 @@ url_video:
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
   caption: ""
-  focal_point: "Smart"
+  focal_point: ""
   preview_only: false
 
 # Associated Projects (optional).
