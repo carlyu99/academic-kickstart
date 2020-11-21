@@ -11,7 +11,8 @@ primary = "hsl(215, 80%, 60%)"
 # sky color is hsl(215, 67%, 50%)
 menu_primary = "hsl(215, 40%, 50%)"
 menu_text = "hsl(0, 0%, 90%)"
-menu_text_active = "hsl(300, 60%, 70%)"
+# menu_text_active = "hsl(300, 60%, 70%)"
+menu_text_active = "hsl(7, 30%, 70%)"
 menu_title = "hsl(215, 40%, 80%)"
 
 # Home sections
