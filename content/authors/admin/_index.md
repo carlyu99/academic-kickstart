@@ -66,6 +66,6 @@ user_groups:
 # where I worked with [Pingzhong Tang](http://people.iiis.tsinghua.edu.cn/~kenshin/) on computational game theory and auction design
 ---
 
-I am a 4th year student majoring in computer science at [Institute for Interdisciplinary Information Sciences (Yao Class)](https://iiis.tsinghua.edu.cn/en/), Tsinghua University. I am generally interested in problems at the intersection of computer science and economics. I hope to use mathematical tools to solve new problems in emerging interdisciplinary research areas.
+I am a 4th year student majoring in computer science at [Institute for Interdisciplinary Information Sciences (Yao Class)](https://iiis.tsinghua.edu.cn/en/), Tsinghua University. I am generally interested in problems at the intersection of computer science and economics. I hope to use mathematical tools to solve emerging problems in interdisciplinary research areas.
 
 During winter to summer 2020, I was a visiting student at California Institute of Technology, where I worked with [Adam Wierman](https://adamwierman.com/) and [Hongyao Ma](https://www.hongyaoma.com/) on online algorithms and ride-sharing markets. During summer 2019, I was a visiting student at University of Michigan, where I worked with [Grant Schoenebeck](http://schoeneb.people.si.umich.edu/) on information elicitation mechanisms.
