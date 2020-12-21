@@ -13,11 +13,11 @@ publishDate: 2020-08-06T15:07:03-07:00
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "4th Workshop on Mechanism Design for Social Good"
-publication_short: "MD4SG 2020"
+publication: "20th International Conference on Autonomous Agents and Multiagent Systems"  # "4th Workshop on Mechanism Design for Social Good"
+publication_short: "AAMAS 2021"  # "MD4SG 2020"
 
 abstract: "Prediction markets are powerful tools to elicit and aggregate beliefs from strategic agents. However, in current prediction markets, agents may exhaust the social welfare by competing to be the first to update the market. We initiate the study of the trade-off between how quickly information is aggregated by the market, and how much this information costs.
 
