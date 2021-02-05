@@ -70,4 +70,4 @@ I am a 4th year student majoring in computer science at [Institute for Interdisc
 
 During winter to summer 2020, I was a visiting student at California Institute of Technology, where I worked with [Adam Wierman](https://adamwierman.com/) and [Hongyao Ma](https://www.hongyaoma.com/) on online algorithms and ride-sharing markets. During summer 2019, I was a visiting student at University of Michigan, where I worked with [Grant Schoenebeck](http://schoeneb.people.si.umich.edu/) on information elicitation mechanisms.
 
-My name written in Chinese is 于宸锴. "Yu" is pronounced like the French word "tu" without "t".
+"Yu" is pronounced like the French word "tu" without "t".
