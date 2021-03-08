@@ -21,7 +21,7 @@ organizations:
 bio: I am interested in the intersection of computer science and economics.
 
 interests:
-  - Game Theory and Market Design
+  - Game Theory and Mechanism Design
   - Online Algorithms
   - Theoretical Machine Learning
 
@@ -70,4 +70,4 @@ I am a 4th year student majoring in computer science at [Institute for Interdisc
 
 During winter to summer 2020, I was a visiting student at California Institute of Technology, where I worked with [Adam Wierman](https://adamwierman.com/) and [Hongyao Ma](https://www.hongyaoma.com/) on online algorithms and ride-sharing markets. During summer 2019, I was a visiting student at University of Michigan, where I worked with [Grant Schoenebeck](http://schoeneb.people.si.umich.edu/) on information elicitation mechanisms.
 
-My family name "Yu" is pronounced like the French word "tu" without "t".
+"Yu" sounds like the French word "tu" without "t".
